@@ -48,7 +48,7 @@ const Footer = () => {
             <p className="text-center text-xs/relaxed text-white">
               © Company 2022. All rights reserved.
               <br />
-              Created with
+              {/* Created with
               <a
                 href="#"
                 className="text-white underline transition hover:text-gray-700/75"
@@ -61,8 +61,8 @@ const Footer = () => {
                 className="text-white underline transition hover:text-gray-700/75"
               >
                 Laravel Livewire
-              </a>
-              .
+              </a> */}
+              
             </p>
           </div>
         </div>
